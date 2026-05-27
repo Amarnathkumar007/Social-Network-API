@@ -6,7 +6,6 @@
 
 This is a comprehensive RESTful API for a social media platform built using **FastAPI** and **PostgreSQL**. 
 
-**Made by amarn**
 
 ## Features
 
